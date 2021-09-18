@@ -1,0 +1,9 @@
+{
+  "bot_token": "Bot token here!",
+  "default_prefix": "a good prefix is m!",
+  "lavalink_host": "0.0.0.0",
+  "lavalink_auth": "youshallnotpass",
+  "spotify_client_id": "Get one from Spotify: https://developer.spotify.com/dashboard",
+  "spotify_client_secret": "Get one from Spotify: https://developer.spotify.com/dashboard",
+  "spotify_redirect_uri": "https://localhost:8888/callback"
+}
